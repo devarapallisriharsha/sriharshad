@@ -2,7 +2,7 @@
 
 Personal Website
 
-Pages :
+Website Pages :
 
 > Index
 > About
