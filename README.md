@@ -1,5 +1,9 @@
 # SRIHARSHAD.COM WEBSITE
 
-Personal Website folders and files
+Personal Website
+
+Pages :
 
 > Index
+> About
+> Contact
