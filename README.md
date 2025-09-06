@@ -6,6 +6,7 @@ Website Pages :
 
 > Home
 > About
+> Resume
 > Works
 > Services
 > Contact
