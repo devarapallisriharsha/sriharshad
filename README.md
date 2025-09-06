@@ -7,6 +7,6 @@ Website Pages :
 > Home
 > About
 > Resumes
-> Works
+> Works - All in one page
 > Services
 > Contact
