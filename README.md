@@ -7,6 +7,6 @@ Website Pages :
 > Home
 > About
 > Resumes
-> Works - Related to graphic, web.
+> Works - Related to all works.
 > Services
 > Contact
