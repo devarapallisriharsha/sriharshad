@@ -4,7 +4,7 @@ Personal Website
 
 Website Pages :
 
-> Index
+> Home
 > About
 > Works
 > Services
